@@ -2,7 +2,7 @@
 
 My name is Heber Dario, I'm from Uruguay and I want to become a DevOps
 
-### About Me ✨
+## About Me ✨
 I have a solid academic background on ORT Univeristy and practical experience in IT , with a focus on:
 
 
