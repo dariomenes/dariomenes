@@ -1,4 +1,3 @@
-<!--
 ### Hello 👋
 
 My name is Heber Dario, I'm from Uruguay and I want to become a Dev-Ops.
@@ -22,4 +21,3 @@ I am keen to apply my skills in collaborative and innovative tech projects.
 
 ## Contact 📫
 Find all of my socials and resume in my [profile] (https://www.linkedin.com/in/hdmeneses/)
--->
