@@ -10,12 +10,13 @@ I have a solid academic background on ORT Univeristy and practical experience in
 Familiar with Linux (RedHat, Ubuntu) and Windows.
 ##### Networking: :construction_worker:
 Knowledgeable in basic network setup and maintenance
-##### Monitoring Tools :+1:
+##### Monitoring Tools :watch:
+##### Cloud Computing :cloud:
 ##### Programming Logic :sparkles:
 
 In addition to my technical skills, I am dedicated to continuous learning:
 
-##### Self-Taught English Learner :rocket:
+##### Self-Taught Learner :rocket:
 I have been teaching myself English and enjoy the challenge of learning a new language and culture.
 ##### Online Learning :statue_of_liberty:
 I use platforms like Udemy, Coursera, TryHackMe, and AWS Educate to explore new topics in technology.
