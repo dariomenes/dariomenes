@@ -8,10 +8,10 @@ I have a solid academic background on ORT Univeristy and practical experience in
 
 ##### Operating Systems :neckbeard:
 Familiar with Linux (RedHat, Ubuntu) and Windows.
-##### Networking: :construction_worker:
-Knowledgeable in basic network setup and maintenance
+##### Networking :construction_worker:
 ##### Monitoring Tools :watch:
-##### Cloud Computing :cloud:
+##### Cloud computing :cloud:
+##### Cybersecurity :lock_with_ink_pen:
 ##### Programming Logic :sparkles:
 
 In addition to my technical skills, I am dedicated to continuous learning:
