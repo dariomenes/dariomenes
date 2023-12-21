@@ -23,3 +23,4 @@ I use platforms like Udemy, Coursera, TryHackMe, and AWS Educate to explore new 
 
 ## Contact 📫
 Find all of my socials and resume in my [profile](https://www.linkedin.com/in/hdmeneses/)
+<script src="https://tryhackme.com/badge/764594"></script>
