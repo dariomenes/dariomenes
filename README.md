@@ -20,8 +20,6 @@ In addition to my technical skills, I am dedicated to continuous learning:
 I have been teaching myself English and enjoy the challenge of learning a new language and culture.
 ##### Online Learning :statue_of_liberty:
 I use platforms like Udemy, Coursera, TryHackMe, and AWS Educate to explore new topics in technology.
-##
-<img src="https://tryhackme-badges.s3.amazonaws.com/Dariusu.png" alt="TryHackMe">
 
 ## Contact 📫
 Find all of my socials and resume in my [profile](https://www.linkedin.com/in/hdmeneses/)
